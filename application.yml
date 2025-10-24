@@ -1,2 +1,2 @@
-asdasdasdasd
-asd
+message:
+  greeting: "Hello from Config Server (default config)"
