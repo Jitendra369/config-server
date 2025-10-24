@@ -1,2 +1,13 @@
 message:
   greeting: "Hello from Config Server (service-a)"
+
+  
+move:
+  sam:
+    ref-webservice: "http://localhost:8088/api/core/userdetails"
+
+app:
+  scheduler:
+    enable: true
+    prod: true
+
